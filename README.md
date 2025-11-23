@@ -5,7 +5,7 @@ Voters frequently face ballot measures that are confusing, technical, or time-co
 
 
 # Demo on YouTube
-[<img width="1945" height="1080" alt="Screenshot 2025-11-22 213138" src="https://github.com/user-attachments/assets/050c337a-9833-4b59-a78f-71407e655060" />](https://youtu.be/JNwvOVg6lms)
+[<img width="2087" height="1175" alt="image" src="https://github.com/user-attachments/assets/18890edb-0589-4828-bab2-e758d490b00f" />](https://youtu.be/JNwvOVg6lms)
 
 # IBM EnterpriseReadyAI track
 ## Members of Mizzou graduates iDAS team 1
